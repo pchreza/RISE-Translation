@@ -2232,11 +2232,11 @@ $lang["the_person_who_will_manage_this_client"] = " شخصی که مسئول ر�
 $lang["the_person_who_will_manage_this_lead"] = "شخصی که مسئول رسیدگی به این مشتری بالقوه خواهد بود.";
 
 $lang["language_key"] = "کلید زبان";
-$lang["left_menu_language_key_recommendation_help_text"] = "پیشنهاد می شود از پیشوندهای دلخواه مانند left_menu_ استفاده کنید";
+$lang["left_menu_language_key_recommendation_help_text"] = "پیشنهاد می شود از پیشوند های دلخواه مانند left_menu_ استفاده کنید";
 
 $lang["project_type"] = "نوع پروژه";
 $lang["client_project"] = "پروژه مشتری";
-$lang["internal_project"] = "پروژه داخل سازمان";
+$lang["internal_project"] = "پروژه داخل سازمانی";
 
 $lang["contact_info"] = "اطلاعات مشتری";
 $lang["type"] = "نوع";
@@ -2249,7 +2249,7 @@ $lang["no_announcement_yet"] = "هنوز اطلاعیه ای وجود ندارد
 $lang["team_members_overview"] = "بررسی اجمالی اعضای تیم";
 $lang["on_leave_today"] = "مرخصی های امروز";
 
-$lang["enable_embedded_form_to_get_leads"] = "فعال کردن فرم های قابل ادغام برای جمع آوری مشتری بالقوه";
+$lang["enable_embedded_form_to_get_leads"] = "فعال کردن فرم های قابل ادغام برای جمع آوری مشتریان بالقوه";
 $lang["please_submit_the_form"] = "لطفا فرم را ارسال کنید";
 $lang["show_in_embedded_form"] = "نمایش در فرم های ادغام";
 
@@ -2260,20 +2260,20 @@ $lang["redirect_to_this_url"] = "به این آدرس ارجاع بده:";
 
 $lang["yes_only_own_timelogs"] = "بله، فقط کارت های ساعت خودش";
 $lang["yes_only_own_project_members"] = "بله، فقط کارمندان پروژه خودش";
-$lang["excluding_his_her_timelogs"] = "به جز کارتهای ساعت خودش";
+$lang["excluding_his_her_timelogs"] = "به جز کارت‌های ساعت خودش";
 $lang["can_add_own_timelogs_only"] = "فقط مجاز به افزودن کارت ساعت خودش است";
 
 $lang["all_tasks_overview"] = "بررسی اجمالی همه کارها";
 
 $lang["invoice_overview"] = "بررسی اجمالی فاکتورها";
 
-$lang["next_reminder"] = "یادآور بعدی";
+$lang["next_reminder"] = "یاد آور بعدی";
 
 $lang["new_tickets_in_last_30_days"] = "تیکت جدید در 30 روز گذشته";
 
 $lang["individual"] = "شخصی";
 
-$lang["total_after_discount"] = "جمع پس از تخفیف";
+$lang["total_after_discount"] = "جمع کل پس از تخفیف";
 
 /* Version 3.3 */
 
